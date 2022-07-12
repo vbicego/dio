@@ -1,4 +1,4 @@
 # DIO
 Notes, Files and Challenges of Digital Innovation One
 
-[Markdown Notes](Markdown/index.md)
+[Markdown Notes](markdown/index.md)
